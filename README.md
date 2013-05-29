@@ -1,4 +1,4 @@
-# GIT is AWESOME!
+# GIT is AWESOME BRA!
 
 Ya ya.
 
