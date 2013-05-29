@@ -1,7 +1,7 @@
-# GIT is AWESOME BRA!
+# GIT is Great.
 
 Ya ya.
 
 Branch
 
-<joke about snakes on a plane>
+There will be no jokes about snakes.
